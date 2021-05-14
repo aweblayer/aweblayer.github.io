@@ -1,0 +1,12 @@
+style: is-light
+height: is-small
+items:
+  - title: 
+    icon: fa-java
+    icon_brand: true
+  - title: 
+    icon: fa fa-code
+    icon_brand: true
+  - title: 
+    icon: fa-linux
+    icon_brand: true
