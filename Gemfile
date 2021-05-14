@@ -5,4 +5,5 @@ gemspec
 
 group :jekyll_plugins do
     gem "bulma-clean-theme"
+    gem 'github-pages', group: :jekyll_plugins
 end
