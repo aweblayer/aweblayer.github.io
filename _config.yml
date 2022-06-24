@@ -1,9 +1,9 @@
 # Site Settings
 lang: en
-title: TechBlogs
+title: Muggle Programmer
 url: "https://aweblayer.github.io/"
 baseurl: ""
-description: TechBlogs
+description: Blog
 
 # theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
